@@ -26,7 +26,7 @@ My mission: Deconstruct systems, analyze human behavior, and secure the digital 
 
 ```javascript
 const arsenal = {
-    languages: ["Python", "TypeScript", "C#", "Go"],
+    languages: ["Python", "Bash", "Java" "C#", "Powershell Basics"],
     tools: ["Burp Suite", "Metasploit", "Wireshark"],
     os: ["Kali Linux", "Parrot OS"]
 };
@@ -35,9 +35,7 @@ const arsenal = {
 <div align="center">
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Go](https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU%20BASH-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </div>
