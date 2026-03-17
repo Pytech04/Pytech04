@@ -56,7 +56,6 @@ const arsenal = {
 | ID | Protocol | Description |
 | :--- | :--- | :--- |
 | **0x05** | **[webway09](https://github.com/Pytech04/webway09)** | Custom web utility. |
-| **0x06** | **[WayCrape](https://github.com/Pytech04/WayCrape)** | TypeScript reconnaissance tool. |
 | **0x07** | **[ADB-Extractor](https://github.com/Pytech04/ADBDataExtractor)** | C# android data extraction logic. |
 
 ---
